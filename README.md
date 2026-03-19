@@ -49,7 +49,7 @@ This web app allows users to dynamically add subjects, enter grades and credits,
 ---
 
 ## 🌐 Live Demo
-file:///C:/Users/prave/OneDrive/Desktop/HTML%20AI/cgpa.html
+https://praveen-kr2029.github.io/cgpa.html/
 
 ## 👤 Author
 
